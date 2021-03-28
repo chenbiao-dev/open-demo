@@ -1,3 +1,5 @@
+# ik热部署改造
+## 参考：https://artisan.blog.csdn.net/article/details/99350933
 ## HotDictReloadThread
 ```
 package org.wltea.analyzer.dic;
